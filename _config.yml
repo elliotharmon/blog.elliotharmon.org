@@ -1,3 +1,5 @@
 markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
+name: Mr. Harmon Returns from One Place to Another
+url: http://blog.elliotharmon.org
