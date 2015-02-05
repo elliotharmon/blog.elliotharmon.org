@@ -14,7 +14,7 @@ Would he be just as interested in using his ability to game social media to work
 
 Apparently [there will be a conference call tomorrow](http://twitter.com/iwearyourshirt/status/13048896029). I'd love to attend, but I don't want to.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/wcVLeUFW-AM" frameborder="0" allowfullscreen></iframe>
+{% include embed.html type="youtube" string="wcVLeUFW-AM" %}
 
 Is the "big limousine" in this song a hearse? Is it?
 

@@ -17,4 +17,4 @@ There are certain perennial stories we hear again and again in discussions of ho
 
 Girl Talk has never been sued because he had the innovative idea of being white.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/OebqNsNRBtU" frameborder="0" allowfullscreen></iframe>
+	{% include embed.html type="youtube" string="OebqNsNRBtU" %}

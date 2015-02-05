@@ -6,9 +6,9 @@ title: The post-avant and getting your arm cut off.
 
 1. Videos of Hal Sirowitz:
 
-	<iframe width="420" height="315" src="//www.youtube.com/embed/hLYlcrKhUDg" frameborder="0" allowfullscreen></iframe>
-
-	<iframe width="420" height="315" src="//www.youtube.com/embed/GiENmNRxuVk" frameborder="0" allowfullscreen></iframe>
+{% include embed.html type="youtube" string="hLYlcrKhUDg" %}
+	
+{% include embed.html type="youtube" string="GiENmNRxuVk" %}
 
 2. [Blog post by Ron Silliman](http://ronsilliman.blogspot.com/2008/09/of-19-authors-whose-books-i-read-in.html) about Joe Wenderoth's poem, "Twentieth Century Pleasures".
 
@@ -27,6 +27,6 @@ The list of established and emerging poets that he identifies as comprising the 
 
 4. [Here's Shepherd's blog](http://reginaldshepherd.blogspot.com/), by the way. The man was horribly intelligent.
 
-	And now, Mark Sultan:
+And now, Mark Sultan:
 
-	<iframe width="560" height="315" src="//www.youtube.com/embed/rR6kw_5f6dI" frameborder="0" allowfullscreen></iframe>
+{% include embed.html type="youtube" string="rR6kw_5f6dI" %}

@@ -1,0 +1,8 @@
+{% capture code %}
+{% if include.type == "youtube" %}
+<div class="video-container">
+<iframe src="//www.youtube.com/embed/{{ include.string }}" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endif %}
+{% endcapture %}
+{{ code | markdownify }}
