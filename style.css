@@ -6,27 +6,43 @@
 	text-align: center;
 	}
 
-body {
-	background: #D0D0D0 url(/img/wall-2000.jpg) no-repeat top right;
-	background-attachment: fixed;
+/* 	background: #D0D0D0 url(/img/wall-2000.jpg) no-repeat top right;
 	background-position: 100% 100%;
+
+	padding-bottom: 350px;
+	background-attachment: fixed;
+	background: #D0D0D0 url(/img/oroenpaz.jpg) no-repeat bottom;
+	font-family: 'Arvo', serif;
+
+	background-color: #6f7b9e; 
+	background-image: url(/img/oroenpaz.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: bottom;
+
+
+*/
+
+body {
+	padding-bottom: 350px;
+	background: #6f7b9e url(/img/oroenpaz.jpg) fixed no-repeat bottom;
 	font-family: 'Arvo', serif;
 	}
 
 a:link {
-	color: #42959d;
+	color: #6f7b9e;
 	}
 
 a:visited {
-	color: 88b098;
+	color: 6f7b9e;
 	}
 
 a:hover {
-    color: #b25e80;
+    color: #a56771;
 }
 
 a:active {
-    color: #b25e80;
+    color: #a56771;
 }
 
 img {
@@ -41,7 +57,7 @@ img {
 	max-width: 500px;
 	background-color: white;
 	padding: 20px;
-	border: 4px solid #2f5ea2;
+	border: 4px solid #191c21;
 	}
 
 .socialbutton {
