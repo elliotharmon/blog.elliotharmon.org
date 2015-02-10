@@ -6,23 +6,6 @@
 	text-align: center;
 	}
 
-/* 	background: #D0D0D0 url(/img/wall-2000.jpg) no-repeat top right;
-	background-position: 100% 100%;
-
-	padding-bottom: 350px;
-	background-attachment: fixed;
-	background: #D0D0D0 url(/img/oroenpaz.jpg) no-repeat bottom;
-	font-family: 'Arvo', serif;
-
-	background-color: #6f7b9e; 
-	background-image: url(/img/oroenpaz.jpg);
-	background-attachment: fixed;
-	background-repeat: no-repeat;
-	background-position: bottom;
-
-
-*/
-
 body {
 	padding-bottom: 350px;
 	background: #6f7b9e url(/img/oroenpaz.jpg) no-repeat bottom;
@@ -58,6 +41,7 @@ img {
 	background-color: white;
 	padding: 20px;
 	border: 4px solid #191c21;
+	border-radius: 20px;
 	}
 
 .socialbutton {
