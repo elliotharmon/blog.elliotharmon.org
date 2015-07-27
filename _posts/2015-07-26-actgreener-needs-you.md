@@ -17,6 +17,7 @@ There's another reason I'm excited about ActGreener. Nonprofits need to *own* ou
 Right now, if you open your Facebook news feed, you might not see a lot of nonprofits' own posts rising to the top. **Facebook favors publishers that know the tricks of Facebook.** That means that even if you like your favorite nonprofit on Facebook, you might be just as likely to see its message mediated through a separate company, one that may or may not share its end goals. It's time to start bringing that knowledge in-house.
 
 ![Duck](https://farm4.staticflickr.com/3763/9531992936_4480d53c08.jpg)
+
 <p style="text-align: center; "><small><a href="https://www.flickr.com/photos/pavlinajane/9531992936/">Duck</a> / Pavlina Jane / <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a></small></p>
 
 Is this interesting to you? Let's talk. Send me a note at my [very-easy-to-find email address](http://elliotharmon.org/). In particular, we're looking to talk to:
