@@ -4,7 +4,7 @@ layout: post
 published: true
 ---
 
-**I recently hosted an online poetry reading and social gathering called Vax Party USA. The real purpose of the event was just to share some poetry with some of my closest friends, but it was also to celebrate the increasing availability of COVID-19 vaccines.
+*I recently hosted an online poetry reading and social gathering called Vax Party USA. The real purpose of the event was just to share some poetry with some of my closest friends, but it was also to celebrate the increasing availability of COVID-19 vaccines.
 
 As the centerpiece of the event, we all worked together on a ghazal about vaccines. If you're not familiar with the ghazal, it's a traditional Arabic poetic form that has spread all over the world. Legend has it that it's the oldest poetic form still in use.
 
@@ -12,16 +12,16 @@ If you watch the video above, you can see my sloppy introduction to the ghazal. 
 
 That's just the tip of the iceberg, though. Watch the full video to get a real taste of what the day was like, with its jarring combination of excellence and silliness. See the YouTube video description for credits and more information.
 
-Here's the poem.**
+Here's the poem.*
 
 Moderna travels at -25 Celsius. Don’t open it unless you know vaccines.
 Ten doses in each vial come from Massachusetts where they grow vaccines.
 
 Some patients sardined into stadiums to get the serum in their arms
-and others hit up CVS in search of unclaimed, ever-so vaccines
+and others hit up CVS in search of unclaimed, ever-so vaccines.
 
 People are afraid to breathe; they can be set free—
-embrace the 25 below vaccines
+embrace the 25 below vaccines.
 
 Moderna, Pfizer, and J&J are going to make a bundle
 If we all get in bed we will need a throw made of old yellow vaccines
@@ -84,9 +84,9 @@ So much praise! But is this creation, this marvel, the greatest achievement?
 Maybe, rather, that is when a doubter changes and accepts vaccines.
 
 T-lymphocytes, B-lymphocytes, mRNA vaccines, vector vaccines,
-swelling, wheezing, sneezing, breezing – by all means, submarines
+swelling, wheezing, sneezing, breezing—by all means, submarines.
 
-The earth is full, the earth lives on, onward through the pandemic--
+The earth is full, the earth lives on, onward through the pandemic—
 Birds, beasts, sun, Elliot, rainbow, vaccines.
 
-**The authors of this poem have released it to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).**
+*The authors of this poem have released it to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).*
