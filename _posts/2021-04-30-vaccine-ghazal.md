@@ -14,7 +14,7 @@ That's just the tip of the iceberg, though. Watch the full video to get a real t
 
 Here's the poem.*
 
-Moderna travels at -25 Celsius. Don’t open it unless you know vaccines.
+Moderna travels at -25 Celsius. Don’t open it unless you know vaccines.  
 Ten doses in each vial come from Massachusetts where they grow vaccines.
 
 Some patients sardined into stadiums to get the serum in their arms
