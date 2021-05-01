@@ -1,7 +1,7 @@
 ---
 title: We wrote a ghazal about vaccines
 layout: post
-published: false
+published: true
 ---
 
 **I recently hosted an online poetry reading and social gathering called Vax Party USA. The real purpose of the event was just to share some poetry with some of my closest friends, but it was also to celebrate the increasing availability of COVID-19 vaccines.
@@ -81,7 +81,7 @@ Anti-vaxxers are trying to shut sites down—they want no vaccines.
 Let's protect ourselves and others around—let's say go vaccines.
 
 So much praise! But is this creation, this marvel, the greatest achievement?
-Maybe, rather, that is when a doubter changes inside and accepts vaccines.
+Maybe, rather, that is when a doubter changes and accepts vaccines.
 
 T-lymphocytes, B-lymphocytes, mRNA vaccines, vector vaccines,
 swelling, wheezing, sneezing, breezing – by all means, submarines
