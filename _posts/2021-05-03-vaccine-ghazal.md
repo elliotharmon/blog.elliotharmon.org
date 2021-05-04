@@ -5,15 +5,15 @@ published: true
 permalink: /ghazal/
 ---
 
-<em>I recently hosted an online poetry reading and social gathering called Vax Party USA. The real purpose of the event was just to share some poetry with some of my closest friends, but it was also to celebrate the increasing availability of COVID-19 vaccines.</em>
+<p style="font-style: italic;">I recently hosted an online poetry reading and social gathering called Vax Party USA. The real purpose of the event was just to share some poetry with some of my closest friends, but it was also to celebrate the increasing availability of COVID-19 vaccines.</p>
 
-<em>As the centerpiece of the event, we all worked together on a ghazal about vaccines. If you're not familiar with the ghazal, it's a traditional Arabic poetic form that has spread all over the world. Legend has it that it's the oldest poetic form still in use.</em>
+<p style="font-style: italic;">As the centerpiece of the event, we all worked together on a ghazal about vaccines. If you're not familiar with the ghazal, it's a traditional Arabic poetic form that has spread all over the world. Legend has it that it's the oldest poetic form still in use.</p>
 
-<em>If you watch the video above, you can see my sloppy introduction to the ghazal. You can also see my friend Andrew Nicholson read the ghazal that the crowd collaborated on.</em>
+<p style="font-style: italic;">If you watch the video above, you can see my sloppy introduction to the ghazal. You can also see my friend Andrew Nicholson read the ghazal that the crowd collaborated on.</p>
 
-<em>That's just the tip of the iceberg, though. Watch the full video to get a real taste of what the day was like, with its jarring combination of excellence and silliness. See the YouTube video description for credits and more information.</em>
+<p style="font-style: italic;">That's just the tip of the iceberg, though. Watch the full video to get a real taste of what the day was like, with its jarring combination of excellence and silliness. See the YouTube video description for credits and more information.</p>
 
-<em>Here's the poem.</em>
+<p style="font-style: italic;">Here's the poem.</p>
 
 Moderna travels at -25 Celsius. Don’t open it unless you know vaccines.<br />
 Ten doses in each vial come from Massachusetts where they grow vaccines.
