@@ -9,7 +9,7 @@ permalink: /ghazal/
 
 <p style="font-style: italic;">I recently hosted an online poetry reading and social gathering called <a href="https://www.youtube.com/watch?v=f1T0FBMsOaY">Vax Party USA</a>. The real purpose of the event was just to share some poetry with some of my closest friends, but it was also to celebrate the increasing availability of COVID-19 vaccines.</p>
 
-<p style="font-style: italic;">As the centerpiece of the event, we all worked together on a ghazal about vaccines. If you're not familiar with the <a href=https://en.wikipedia.org/wiki/Ghazal">ghazal</a>, it's a traditional Arabic poetic form that has spread all over the world. Legend has it that it's the oldest poetic form still in use.</p>
+<p style="font-style: italic;">As the centerpiece of the event, we all worked together on a ghazal about vaccines. If you're not familiar with the <a href="https://en.wikipedia.org/wiki/Ghazal">ghazal</a>, it's a traditional Arabic poetic form that has spread all over the world. Legend has it that it's the oldest poetic form still in use.</p>
 
 <p style="font-style: italic;">If you watch the video above, you can see <a href="https://www.youtube.com/watch?v=f1T0FBMsOaY&t=1674s">my sloppy introduction to the ghazal</a>. You can also <a href="https://www.youtube.com/watch?v=f1T0FBMsOaY&t=3424s">see my friend Andrew Nicholson read the ghazal that the crowd collaborated on</a>.</p>
 
