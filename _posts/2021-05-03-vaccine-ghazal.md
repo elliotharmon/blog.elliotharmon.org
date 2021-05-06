@@ -94,4 +94,4 @@ swelling, wheezing, sneezing, breezing—by all means, submarines.
 The earth is full, the earth lives on, onward through the pandemic—<br />
 Birds, beasts, sun, Elliot, rainbow, vaccines.
 
-<p style="font-style: italic;">The authors of this poem have released it to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</p>
+<p style="font-style: italic;">The authors of this poem have released it to the public domain under the <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 Public Domain Dedication</a>.</p>
