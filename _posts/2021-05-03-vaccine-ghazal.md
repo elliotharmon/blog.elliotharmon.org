@@ -5,13 +5,17 @@ published: true
 permalink: /ghazal/
 ---
 
-<p style="font-style: italic;">I recently hosted an online poetry reading and social gathering called Vax Party USA. The real purpose of the event was just to share some poetry with some of my closest friends, but it was also to celebrate the increasing availability of COVID-19 vaccines.</p>
+<iframe src="https://www.youtube.com/embed/f1T0FBMsOaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p style="font-style: italic;">As the centerpiece of the event, we all worked together on a ghazal about vaccines. If you're not familiar with the ghazal, it's a traditional Arabic poetic form that has spread all over the world. Legend has it that it's the oldest poetic form still in use.</p>
+<p style="font-style: italic;">I recently hosted an online poetry reading and social gathering called [Vax Party USA](https://www.youtube.com/watch?v=f1T0FBMsOaY). The real purpose of the event was just to share some poetry with some of my closest friends, but it was also to celebrate the increasing availability of COVID-19 vaccines.</p>
 
-<p style="font-style: italic;">If you watch the video above, you can see my sloppy introduction to the ghazal. You can also see my friend Andrew Nicholson read the ghazal that the crowd collaborated on.</p>
+<p style="font-style: italic;">As the centerpiece of the event, we all worked together on a ghazal about vaccines. If you're not familiar with the [ghazal](https://en.wikipedia.org/wiki/Ghazal), it's a traditional Arabic poetic form that has spread all over the world. Legend has it that it's the oldest poetic form still in use.</p>
 
-<p style="font-style: italic;">That's just the tip of the iceberg, though. Watch the full video to get a real taste of what the day was like, with its jarring combination of excellence and silliness. See the YouTube video description for credits and more information.</p>
+<p style="font-style: italic;">If you watch the video above, you can see [my sloppy introduction to the ghazal](https://www.youtube.com/watch?v=f1T0FBMsOaY&t=1674s). You can also [see my friend Andrew Nicholson read the ghazal that the crowd collaborated on](https://www.youtube.com/watch?v=f1T0FBMsOaY&t=3424s).</p>
+
+<p style="font-style: italic;">There's something fascinating about introducing people--especially non-poets--to a new form. It's easy to see a lot of variation in how people approached the form, whether they followed all of the rules or not. In my introduction, I joked that since most of us are new to the ghazal, we'd all be "good little formalists" in our first try writing one. Some people definitely took that as a challenge and tried to go as avant-garde as they could. A lot of people kept to the rules too. There were plenty great contributions on both sides. Together, the poem is a kind of wild cacophony of the fears and hopes we're all experiencing right now, as people hope for vaccines adoption to end this awful pandemic.</p>
+
+<p style="font-style: italic;">That's just the tip of the iceberg, though. [Watch the full video](https://www.youtube.com/watch?v=f1T0FBMsOaY) to get a real taste of what the day was like, with its jarring mix of transcendence and silliness. See the YouTube video description for credits and more information.</p>
 
 <p style="font-style: italic;">Here's the poem.</p>
 
@@ -90,4 +94,4 @@ swelling, wheezing, sneezing, breezing—by all means, submarines.
 The earth is full, the earth lives on, onward through the pandemic—<br />
 Birds, beasts, sun, Elliot, rainbow, vaccines.
 
-*The authors of this poem have released it to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).*
+<p style="font-style: italic;">The authors of this poem have released it to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</p>
